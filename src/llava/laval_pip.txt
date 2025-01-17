@@ -1,0 +1,6 @@
+!pip install -Uqqq pip --progress-bar off
+!pip install -qqq torch==2.1 --progress-bar off
+!pip install -qqq transformers==4.34.1 --progress-bar off
+!pip install -qqq accelerate==0.23.0 --progress-bar off
+!pip install -qqq bitsandbytes==0.41.1 --progress-bar off
+!pip install -qqq llava-torch==1.1.1 --progress-bar off
