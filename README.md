@@ -1,6 +1,4 @@
-# Classification of Multimodal Social Media Posts
-
-This repository contains the code and resources for the "Classification of Multimodal Social Media Posts" project.
+# Call for Research on the Impact of Information Retrieval on Social Norms
 
 ## Repository Structure
 <pre>
